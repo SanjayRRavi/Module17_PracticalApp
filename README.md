@@ -1,6 +1,7 @@
-Location of Jupyter Notebook within GitHub: https://github.com/SanjayRRavi/Module17_PracticalApp/edit/main (Detailed work and plots are shown here)
+Location of Jupyter Notebook within GitHub: https://github.com/SanjayRRavi/Module17_PracticalApp/blob/main/prompt_III.ipynb (Detailed work and plots are shown here)
 
 Business Problem Statement: 
+
 Many times, businesses face the issue of having to target multiple potential customers thru phone calls to each individual (potential client), and unsure whether or not that individual will buy the product being advertised. Banks are no exception. This data here is from a Portuguese banking institution. The goal here is to investigate which features (characteristics of an individual) would be the most relevant for the purchasing decision, which is if a customer says "yes" or "no" to subscribing to a term deposit plan, and also creating a model that predicts what types of customers are most likely to say "yes".  This will help the banks redirect their limited resources towards contacting only the customers who are more likely to subscribe.
 
 Findings (Summary & Conclusions):
